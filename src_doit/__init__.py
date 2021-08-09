@@ -33,7 +33,7 @@ def task_build():
 
     def mappings():
         yield (src_js_dir / '@hat-open/future.js',
-               build_js_dir / '@hat-open/future/index.js')
+               build_js_dir / 'index.js')
 
     def build():
         common.rm_rf(build_js_dir)
