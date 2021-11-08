@@ -21,8 +21,6 @@ src_js_dir = Path('src_js')
 build_js_dir = build_dir / 'js'
 build_docs_dir = build_dir / 'docs'
 
-readme_path = Path('README.rst')
-
 
 def task_clean_all():
     """Clean all"""
