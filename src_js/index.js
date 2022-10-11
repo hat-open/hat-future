@@ -17,7 +17,7 @@ export function create() {
         if (data.error) {
             reject(data.result);
         } else if (data.done) {
-            resolve(data.resolve);
+            resolve(data.result);
         }
     });
 

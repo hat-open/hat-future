@@ -1,6 +1,12 @@
 hat-future - JavaScript async future implementation
 =====================================================
 
+.. warning::
+
+    This repository is no longer maintained. This library and associated
+    functionality is now available and maintained as part of
+    `@hat-open/util <https://github.com/hat-open/hat-util>`_ library.
+
 This library is part of Hat Open project - open-source framework of tools and
 libraries for developing applications used for remote monitoring, control and
 management of intelligent electronic devices such as IoT devices, PLCs,
